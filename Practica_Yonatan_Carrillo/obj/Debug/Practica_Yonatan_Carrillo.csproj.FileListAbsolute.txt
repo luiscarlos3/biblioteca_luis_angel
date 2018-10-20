@@ -1,0 +1,10 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\bin\Debug\Practica_Yonatan_Carrillo.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\bin\Debug\Practica_Yonatan_Carrillo.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\bin\Debug\Practica_Yonatan_Carrillo.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.biblioteca_Luis_Ángel_Arango.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.Form1.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Practica_Yonatan_Carrillo\Practica_Yonatan_Carrillo\obj\Debug\Practica_Yonatan_Carrillo.pdb
